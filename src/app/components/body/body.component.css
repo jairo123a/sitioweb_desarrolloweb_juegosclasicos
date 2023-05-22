@@ -1,0 +1,12 @@
+
+  h2{
+    color:darkgrey;
+    text-decoration: none;
+    text-align: center;
+  }
+  body{
+    background-color: black;
+  }
+  .caja{
+    margin: 2px 2px 2px 2px;
+  }
